@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-0928
-- 👀 I’m interested in coding knowledgw
+- 👀 I’m interested in coding knowledge
 - 🌱 I’m currently learning c++ programming
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
